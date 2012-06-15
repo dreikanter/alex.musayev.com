@@ -2,8 +2,8 @@ title: Александр Мусаев
 ctime: 2012/06/05 13:49:38
 mtime: 2012/06/05 13:49:38
 template: default
-meta-description: Alex Musayev: contacts and CV
-meta-keywords: alex musayev, musayev, contacts, cv, personal information, александр мусаев, мусаев, контакты, резюме
+description: Alex Musayev: contacts and CV
+keywords: alex musayev, musayev, contacts, cv, personal information, александр мусаев, мусаев, контакты, резюме
 
 Привет!
 
