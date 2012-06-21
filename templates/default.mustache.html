@@ -1,31 +1,78 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+<html>
 <head>
-<meta charset="utf-8">
-<title>{{title}}</title>
-<meta name="description" content="{{meta-description}}">
-<meta name="keywords" content="{{meta-keywords}}">
-<meta name="author" content="Alex Musayev">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link rel="stylesheet" href="stylesheets/base.css">
-<link rel="stylesheet" href="stylesheets/skeleton.css">
-<link rel="stylesheet" href="stylesheets/layout.css">
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<link rel="shortcut icon" href="images/favicon.ico">
-<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="title" content="{{title}}">
+	<meta name="description" content="{{description}}">
+	<meta name="keywords" content="{{keywords}}">
+	<meta name="author" content="{{author}}">
+	<title>{{title}}</title>
+	<style>
+	body
+	{
+		margin:0;
+		padding:2em 4em;
+		font-size:110%;
+		font-family:Georgia, serif;
+		line-height:1.4;
+		color:#333333;
+	}
+	h1
+	{
+		font-weight:normal;
+		margin-bottom:0;
+	}
+	li
+	{
+		margin-bottom:.28em;
+	}
+	li p
+	{
+		margin:0;
+	}
+	a
+	{ 
+		color:#006699;
+	}
+	a:visited
+	{
+		color:#003366;
+	}
+	big
+	{
+		color:black;
+	}
+	div#main
+	{
+		max-width:42em;
+	}
+	p#qr
+	{
+		padding-top:1em;
+	}
+	div#news
+	{
+		padding:1em 0 1em 0;
+	}
+	.silver, .silver a
+	{
+		color:silver;
+		background-color:inherit;
+	}
+	.hl
+	{
+		font-weight:normal;
+		color:inherit;
+		background-color:#ffff33;
+	}
+	</style>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>
+
 <body>
-<div class="container">
-<div class="sixteen columns">
+<div id="main">
 {{{content}}}
-</div>
 </div>
 </body>
 </html>
