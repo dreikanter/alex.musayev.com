@@ -1,3 +1,8 @@
+title: Alexander Musayev, CV
+template: default
+description: Alexander Musayev, CV
+keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
+
 # Alexander Musayev
 
 Date of birth: 17 Jul 1981
@@ -5,7 +10,6 @@ Location: Saint-Petersburg, Russia
 Education: Higher technical
 E-mail/jabber: alex.musayev@gmail.com
 Skype: dreikanter
-Phone: +7 (905) 266-61-66
 
 ## Skills and specialization
 

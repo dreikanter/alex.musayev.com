@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^cv$  cv.html [NC,L]
+RewriteRule ^cv-en$  cv.html [NC,L]
+RewriteRule ^cv-ru$  cv-ru.html [NC,L]
