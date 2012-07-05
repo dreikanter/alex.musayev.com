@@ -3,7 +3,7 @@ ctime: 2012/06/05 13:49:38
 description: Alex Musayev: contacts and CV
 keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
 
--- row 7:1, 3 --
+-- row 8, 4 --
 Привет!
 
 Меня зовут <big>Александр Мусаев</big>. Я живу в Санкт-Петербурге, занимаюсь разработкой ПО в компании [Люксофт](http://luxoft.ru).
