@@ -1,3 +1,2 @@
-@echo off
-call setenv.bat
-start cmd /c python %bin%/ps.py preview -c %config% -s %section% -l %log% -b %verbose%
+call env.bat
+start cmd /c %ps% preview -c %config% -s %section% -l %log% -b %verbose%

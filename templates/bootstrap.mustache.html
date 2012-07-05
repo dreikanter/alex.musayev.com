@@ -10,13 +10,13 @@
 {{/author}}{{#generator}}<meta name="generator" content="{{generator}}">
 {{/generator}}
 <link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/bootstrap-responsive.css" rel="stylesheet">
 <style type="text/css">
 body {
-  padding-top: 60px;
-  padding-bottom: 40px;
+padding-top: 60px !important;
+padding-bottom: 40px;
 }
 </style>
-
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -25,27 +25,15 @@ body {
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72-precomposed.png">
 <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-57-precomposed.png">
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>
 
 <body>
 <div class="container">
-{{content}}
-<hr>
-<footer><p>&copy; Company 2012</p></footer>
+{{{content}}}
 </div>
-
-<script src="/js/jquery.js"></script>
-<script src="/js/bootstrap-transition.js"></script>
-<script src="/js/bootstrap-alert.js"></script>
-<script src="/js/bootstrap-modal.js"></script>
-<script src="/js/bootstrap-dropdown.js"></script>
-<script src="/js/bootstrap-scrollspy.js"></script>
-<script src="/js/bootstrap-tab.js"></script>
-<script src="/js/bootstrap-tooltip.js"></script>
-<script src="/js/bootstrap-popover.js"></script>
-<script src="/js/bootstrap-button.js"></script>
-<script src="/js/bootstrap-collapse.js"></script>
-<script src="/js/bootstrap-carousel.js"></script>
-<script src="/js/bootstrap-typeahead.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+<script src="assets/js/bootstrap-transition.js"></script>
+<script src="assets/js/bootstrap-carousel.js"></script>
 </body>
 </html>
