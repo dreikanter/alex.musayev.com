@@ -21,8 +21,12 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 
 Думайте о прекрасном.
 
-<a href="https://twitter.com/dreikanter" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @dreikanter</a>
-
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_facebook_follow" addthis:userid="dreikanter"></a>
+<a class="addthis_button_twitter_follow" addthis:userid="dreikanter"></a>
+<a class="addthis_button_google_follow" addthis:userid="110946086246332660134"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ff62b047ef6db99"></script>
 --
 
 <!--![QR](/img/qr.png)-->
