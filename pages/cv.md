@@ -1,30 +1,35 @@
 title: Alexander Musayev, CV
-template: default
+template: bootstrap
 description: Alexander Musayev, CV
 keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
 
+-- row 9, 3 --
 # Alexander Musayev
 
+-- row 4, 5 --
 Date of birth: 17 Jul 1981
 Location: Saint-Petersburg, Russia
-Education: Higher technical
+--
 E-mail/jabber: alex.musayev@gmail.com
 Skype: dreikanter
+-- end --
 
 ## Skills and specialization
 
-Eight years experience in software design and development. UI/UX design and prototyping. Requirements analysis, tasks decomposition and estimation. Creating specifications and project ducumentation. Keeping things in order and transforming the complex into the simple.
+Eight years experience in software design and development. UI/UX design and prototyping. Requirements analysis, tasks decomposition and estimation. Specifications and technical documentation development. Keeping things in order and transforming the Complex into the Simple.
 
-* Languages, frameworks, libraries: C# (.net 1.1-4.0, winforms/wpf, wcf, spring.net, moq, xunit, nunit, devexpress, wix, msmq, zeromq, log4net, nlog), python (django, web.py), php (wordpress plugin api, ado db, codeigniter).
-* Databases: mysql, sqlite, microsoft sql server (express, ce), oracle.
-* Web: html (4, 5), xhtml, css (2, 3), микроформаты. Servers: apache, nginx.
-* Version control: svn, git.
-* IDE and tools: microsoft visual studio 6.0­2010, jetbrains pycharm, microsoft visio, case studio, windows cli, linux shell, adobe photoshop, mindjet mindmanager.
-* English and russian languages.
+* Primary programming languages:
+	* C# (.net 1.1-4.0, winforms/wpf, wcf, spring.net, moq, xunit, nunit, devexpress, wix, msmq, zeromq, log4net, nlog).
+	* Python (2.6-3, django, web.py).
+* Databases: mysql, sqlite, microsoft sql server (std, express, ce), oracle.
+* Web: html (4, 5), xhtml, css (2, 3), microformats. Servers: apache, nginx.
+* Version control: git, svn, p4, tfs.
+* IDE and tools: microsoft visual studio 6.0-2010, jetbrains pycharm, microsoft visio, case studio, windows cli, linux shell, adobe photoshop, mindjet mindmanager.
+* Fluent English and Russian.
 
 ## Mission
 
-Invent and develop high-quality and popular products bringing joy not only by the implemented functionality, but by the fact of their existence itself. Increase the amount of order and meaning in the world.
+Invent and develop high-quality and popular products bringing. Increase the amount of order and meaning in the world.
 
 ## Interests
 
@@ -32,20 +37,14 @@ Product development, analysis, UI/UX design, information architecture, distribut
 
 ## Experience
 
-### Senior software developer 
+**Jan 2012 — Present time:** Senior software developer @ [Luxoft](http://luxoft.com) (Outsourcing)
 
-Luxoft, Saint-Petersburg ([luxoft.com](http://luxoft.com))
-Jan 2012 — Present time
-
-### Software developer (Department of outsourcing)
-
-Lanit Tercom, Saint-Petersburg ([lanit-tercom.ru](http://lanit-tercom.ru))
-Aug 2008 — Dec 2011
+**Aug 2008 — Dec 2011:** Software developer @ [Lanit Tercom](http://lanit-tercom.ru) (Outsourcing, R&D)
 
 Responsibility:
 
 * Enterprise software development (desktop applications and web services), testing, deployment and support (.NET/C#, PL/SQL, Java, Flex).
-* Requirements analyzis, tasks decomposition and estimation, creating specifications and project docimentation.
+* Requirements analysis, tasks decomposition and estimation, creating specifications and project docimentation.
 * UI prototyping and development, UI logic formalization.
 
 Achievements:
@@ -54,10 +53,7 @@ Achievements:
 * Web-based media management system for DTS Medien AG (Germany).
 * Medical data management system for Huntington Hospital (California, USA) / dbMotion Ltd. (Israel).
 
-### Freelance developer (Department of Research and Development)
-
-Sevzapmontazhavtomatika LLC, Saint-Petersburg ([szma.com](http://szma.com))
-Aug 2006 — Dec 2009
+**Aug 2006 — Dec 2009:** Software developer @ [SZMA LLC](http://szma.com) (R&D)
 
 Responsibility:
 
@@ -71,10 +67,7 @@ Achievements:
 * Web service for financial data collection, verification, and analysis.
 * Middleware for Matlab integration with Metaquotes MetaTrader (trading platform).
 
-### Post graduate student
-
-SPIIRAS, Saint-Petersburg ([spiiras.nw.ru](http://spiiras.nw.ru))
-Dec 2004 — Dec 2008
+**Dec 2004 — Dec 2008:** Post graduate student @ [SPIIRAS](http://spiiras.nw.ru)
 
 Responsibility:
 
@@ -87,10 +80,7 @@ Achievements:
 
 * A number of publications in science magazines and institute proceedings on mathematical modelling and enterprise automation.
 
-### Professor assistant
-
-SPbUWC, Saint-Petersburg ([spbuwc.ru](http://spbuwc.ru))
-Oct 2006 — Jul 2008
+**Oct 2006 — Jul 2008:** Professor assistant @ [SPbUWC](http://spbuwc.ru)
 
 Responsibility:
 
@@ -103,10 +93,7 @@ Achievements:
 * Practical programming experience in high-level languages for about 50 university students.
 * Lecture notes on C++ programming.
 
-### Software developer
-
-7+11 Company Ltd., Saint-Petersburg ([7plus11.ru](http://7plus11.ru))
-Jul 2003 — Oct 2007
+**Jul 2003 — Oct 2007:** Software developer @ [7+11 Company Ltd.](http://7plus11.ru)
 
 Responsibility:
 
@@ -118,10 +105,10 @@ Responsibility:
 
 Achievements:
 
-* Launched automated control systems for VTB Bank Headquarters, Kronverk Business Center and a number of other office and residential buildings in Saint-Petersburg.
+* Launched automated control systems for [VTB Bank](http://vtb.ru) headquarters, Kronverk Business Center and a number of other office and residential buildings in Saint-Petersburg.
 * Kilowatt-hours and giga-calories saved by control algorithms optimization for embedded systems.
 
-### Some of personal non-commercial projects
+## Some of personal non-commercial projects
 
 * Bibliography generator for science texts based on the GOST 7.0.5-2008 standard requirements (a tool which helps to get rid of a cumbersome list of weak rules which should be kept in mind during bibliography drafting).
 * Google Chrome browser extensions with a few thousands of users ([b23.ru/33f6](http://b23.ru/33f6), [b23.ru/33f7](http://b23.ru/33f7)).
@@ -134,19 +121,23 @@ GitHub account: [github.com/dreikanter](https://github.com/dreikanter/).
 
 ## Education
 
-**Higher:** St. Petersburg State University of Airspace Instrumentation (SUAI) Department of Automatic Control Systems  
-Specialty: Automatic Control and Information Processing Systems  
-1998 — 2004
+**Higher:** 1998—2004, St. Petersburg State University of Airspace Instrumentation (SUAI)  
+Department of Automatic Control Systems  
+Specialty: Automatic Control and Information Processing Systems
 
-**Postgraduate:** St. Petersburg Institute for Informatics and Automation of Russian Academy of Sciences (SPIIRAS)  
+**Postgraduate:** 2004–2008, St. Petersburg Institute for Informatics and Automation of Russian Academy of Sciences (SPIIRAS)  
 Specialty: Mathematical and Software Support of Computers,  
-Complex Systems and  Networks  
-2004 – 2008
+Complex Systems and Networks
 
-Miscellaneous
+**Other:**
 
 * Brainbench certifacates: С, HTML.
-* Artyom Gorbunov’s Educational Center certificate: User Experience design and Information Visualization.
+* Artyom Gorbunov’s Educational Center [certificate](http://artgorbunov.ru/educenter/certificate/b92253850c0147cb7cc68f4b7c10f572/): User Experience design and Information Visualization.
 * Careerlab certificate: High Level Architecture Design With UML.
+* [System Analysis School](http://school.system-analysis.ru/) certificate for software requirements development course.
 * Community membership: ACM, WSG, UX Russia.
 * Traveling passport is available. Inland and abroad business trips experience.
+
+--
+
+-- end --

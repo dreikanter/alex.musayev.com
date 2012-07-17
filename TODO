@@ -1,0 +1,6 @@
+Update CV-ru
+Update CV-en
+public-static: Generate PDF versions for CV
+	http://www.verypdf.com/pdfcamp/convert-html-to-pdf.html
+	https://github.com/chrisglass/xhtml2pdf
+Use Google Web Fonts for headers

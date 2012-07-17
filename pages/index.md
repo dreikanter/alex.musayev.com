@@ -3,18 +3,19 @@ ctime: 2012/06/05 13:49:38
 description: Alex Musayev: contacts and CV
 keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
 
--- row 8, 4 --
+-- row 9, 3 --
 Привет!
 
-Меня зовут <big>Александр Мусаев</big>. Я живу в Санкт-Петербурге, занимаюсь разработкой ПО в компании [Люксофт](http://luxoft.ru).
+Меня зовут **Александр Мусаев.** Я живу в Санкт-Петербурге, занимаюсь разработкой ПО в компании [Люксофт](http://luxoft.ru).
 
 Мне интересна архитектура распределенных программных систем, системный анализ, веб-технологии, проектирование правильных пользовательских интерфейсов. Я умею объяснять непонятное, писать комментарии в коде, придумывать и делать лучше, чем было.
 
 * Почта/джаббер: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com)
-* Резюме: [alexmusayev.moikrug.ru](http://alexmusayev.moikrug.ru); версия для печати: [PDF](alexm-cv-en.pdf), [ПДФ](alexm-cv-ru.pdf)
-* Tвиттер: [@dreikanter](http://twitter.com/dreikanter)
-* Friendfeed: [friendfeed.com/dreikanter](http://friendfeed.com/dreikanter)
 * GitHub: [github.com/dreikanter](https://github.com/dreikanter)
+* Мой круг: [alexmusayev.moikrug.ru](http://alexmusayev.moikrug.ru)
+* Twitter: [@dreikanter](http://twitter.com/dreikanter)
+* Facebook: [facebook.com/dreikanter](http://facebook.com/dreikanter)
+* Friendfeed: [friendfeed.com/dreikanter](http://friendfeed.com/dreikanter)
 * Закладки: [pinboard.in/u:dreikanter](http://pinboard.in/u:dreikanter)
 * Блог: [paradigm.ru](http://paradigm.ru)
 * Вишлист: [pinterest.com/dreikanter/wishlist](http://pinterest.com/dreikanter/wishlist)
@@ -27,8 +28,14 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 <a class="addthis_button_google_follow" addthis:userid="110946086246332660134"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ff62b047ef6db99"></script>
+<br><br>
+
 --
 
-<!--![QR](/img/qr.png)-->
+Резюме:
+
+[![CV](/img/cv.png)](/cv.html)
+
+Для печати: [PDF](alexm-cv-en.pdf), [ПДФ](alexm-cv-ru.pdf)
 
 -- end --
