@@ -1,6 +1,5 @@
-title: Alexander Musayev, CV
-template: bootstrap
-description: Alexander Musayev, CV
+title: Alexander Musayev CV
+description: Alexander Musayev CV
 keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
 
 -- row 9, 3 --
