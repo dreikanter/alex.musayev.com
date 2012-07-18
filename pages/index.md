@@ -34,7 +34,7 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 
 Резюме:
 
-[![CV](/img/cv.png)](/cv.html)
+[![CV](/img/cv.png)](/cv-ru.html)
 
 Для печати: [PDF](alexm-cv-en.pdf), [ПДФ](alexm-cv-ru.pdf)
 

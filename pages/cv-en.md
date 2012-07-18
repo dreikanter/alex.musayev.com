@@ -110,11 +110,11 @@ Achievements:
 ## Some of personal non-commercial projects
 
 * Bibliography generator for science texts based on the GOST 7.0.5-2008 standard requirements (a tool which helps to get rid of a cumbersome list of weak rules which should be kept in mind during bibliography drafting).
-* Google Chrome browser extensions with a few thousands of users ([b23.ru/33f6](http://b23.ru/33f6), [b23.ru/33f7](http://b23.ru/33f7)).
-* Static web site builder ([github.com/dreikanter/public-static](https://github.com/dreikanter/public-static)).
+* Google Chrome browser extensions with a few thousands of users ([Narod Downloader](http://b23.ru/33f6), [B23](http://b23.ru/33f7)).
+* [Public-Static](https://github.com/dreikanter/public-static) — static web site builder (it used to generate this page).
 * Open source blog CMS: Motoko Smart Blogging System ([github.com/dreikanter/motoko](https://github.com/dreikanter/motoko)).
 * Proven concept of Git version control system usage for web content management (specialized CMS for wishlists generation based on Git backend).
-* A number of Wordpress plugins (e.g. [github.com/dreikanter/wordpress-post-list](https://github.com/dreikanter/wordpress-post-list)).
+* A number of Wordpress plugins (e.g. [Wordpress Post List](https://github.com/dreikanter/wordpress-post-list)).
 
 GitHub account: [github.com/dreikanter](https://github.com/dreikanter/).
 

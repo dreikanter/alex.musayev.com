@@ -1,6 +1,6 @@
 @echo off
 set ps=python ..\public-static\ps.py
-doskey ps=%ps% $*
+rem doskey ps=%ps% $*
 set config=website.ini
 set section=alex.musayev.com
 set log=website.log
