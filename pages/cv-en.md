@@ -138,5 +138,5 @@ Complex Systems and Networks
 * Traveling passport is available. Inland and abroad business trips experience.
 
 --
-
+[![Download PDF](/img/pdficon.png)](/alexm-cv-en.pdf)
 -- end --

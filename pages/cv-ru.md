@@ -140,5 +140,5 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 * Есть загранпаспорт и опыт командировок по России и за рубежом.
 
 --
-
+[![Скачать PDF](/img/pdficon.png)](/alexm-cv-ru.pdf)
 -- end --
