@@ -2,6 +2,12 @@ title: Alexander Musayev CV
 description: Alexander Musayev CV
 keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
 
+<div class="nav">
+<a href="/">← Home</a> |
+<a href="/alexm-cv-en.pdf">PDF</a> |
+<a href="/cv-ru.html">Russian version</a>
+</div>
+
 -- row 9, 3 --
 # Alexander Musayev
 
@@ -138,5 +144,5 @@ Complex Systems and Networks
 * Traveling passport is available. Inland and abroad business trips experience.
 
 --
-[![Download PDF](/img/pdficon.png)](/alexm-cv-en.pdf)
+
 -- end --

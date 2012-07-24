@@ -2,6 +2,12 @@ title: Александр Мусаев, резюме
 description: Александр Мусаев, резюме
 keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
 
+<div class="nav">
+<a href="/">← Home</a> |
+<a href="/alexm-cv-ru.pdf">PDF</a> |
+<a href="/cv-en.html">English version</a>
+</div>
+
 -- row 9, 3 --
 # Александр Мусаев
 
@@ -140,5 +146,5 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 * Есть загранпаспорт и опыт командировок по России и за рубежом.
 
 --
-[![Скачать PDF](/img/pdficon.png)](/alexm-cv-ru.pdf)
+
 -- end --
