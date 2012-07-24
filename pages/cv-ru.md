@@ -2,7 +2,7 @@ title: Александр Мусаев, резюме
 description: Александр Мусаев, резюме
 keywords: alex musayev, alexander musayev, contacts, cv, personal information, александр мусаев, контакты, резюме
 
-<div class="nav">
+<div class="nav noprint">
 <a href="/">← Home</a> |
 <a href="/alexm-cv-ru.pdf">PDF</a> |
 <a href="/cv-en.html">English version</a>
