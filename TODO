@@ -1,4 +1,2 @@
 Update CV-ru
-public-static: Generate PDF versions for CV
-	http://www.verypdf.com/pdfcamp/convert-html-to-pdf.html
-	https://github.com/chrisglass/xhtml2pdf
+Drop batches except build and preview. Rename build to build-statics.
