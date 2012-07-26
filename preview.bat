@@ -1,2 +1,1 @@
-call env.bat
-start cmd /c %ps% preview -c %config% -s %section% -l %log% -b %verbose%
+start cmd /c ps preview -b -c %~dp0build.conf
