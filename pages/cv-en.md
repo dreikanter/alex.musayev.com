@@ -15,7 +15,7 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, Ð
 Date of birth: 17 Jul 1981
 Location: Saint-Petersburg, Russia
 --
-E-mail/jabber: alex.musayev@gmail.com
+E-mail: alex.musayev@gmail.com
 Skype: dreikanter
 -- end --
 
