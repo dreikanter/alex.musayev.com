@@ -21,7 +21,7 @@ Skype: dreikanter
 
 ## Skills and specialization
 
-Eight years experience in software design and development. UI/UX design and prototyping. Requirements analysis, tasks decomposition and estimation. Specifications and technical documentation development. Keeping things in order and transforming the Complex into the Simple.
+Eight years experience in software design and development. UI/UX design and prototyping. Requirements analysis, tasks decomposition, and estimation. Specifications and technical documentation development. Keeping things in order and transforming the Complex into the Simple.
 
 * Primary programming languages:
 	* C# (.net 1.1-4.0, winforms/wpf, wcf, spring.net, moq, xunit, nunit, devexpress, wix, msmq, zeromq, log4net, nlog).
@@ -38,7 +38,7 @@ Invent and develop high-quality and popular products bringing. Increase the amou
 
 ## Interests
 
-Product development, analysis, UI/UX design, information architecture, distributed systems, web technologies.
+Product development, analysis, UI/UX design, information architecture, distributed systems, and web technologies.
 
 ## Experience
 
@@ -49,7 +49,7 @@ Product development, analysis, UI/UX design, information architecture, distribut
 Responsibility:
 
 * Enterprise software development (desktop applications and web services), testing, deployment and support (.NET/C#, PL/SQL, Java, Flex).
-* Requirements analysis, tasks decomposition and estimation, creating specifications and project docimentation.
+* Requirements analysis, tasks decomposition and estimation, creating specifications and project documentation.
 * UI prototyping and development, UI logic formalization.
 
 Achievements:
@@ -64,7 +64,7 @@ Responsibility:
 
 * Architecture design for distributed software.
 * Requirements analysis, specification drafting and project documentation.
-* Software development, testing, deployment and support (C#, Matlab, MQL, MySQL, PHP).
+* Software development, testing, deployment, and support (C#, Matlab, MQL, MySQL, PHP).
 * Technical documentation and user manuals drafting.
 
 Achievements:
@@ -79,7 +79,7 @@ Responsibility:
 * Research in the field of mathematical modeling, scientific conferences participation.
 * Participating in development of Computer-aided Modeling System for the Large-scale Social Economic Projects (Russian Foundation for Basic Research grant).
 * Experimental software development (C#).
-* Training cource development for third-year university students.
+* Training course development for third-year university students.
 
 Achievements:
 
@@ -89,7 +89,7 @@ Achievements:
 
 Responsibility:
 
-* Training cource development for university students.
+* Training course development for university students.
 * Lecturing and running workshops on C++ programming, seminars organization on enterprise software development.
 * Exams admission, participating in the examination committee for the "Information Security" specialty.
 
@@ -104,19 +104,19 @@ Responsibility:
 
 * Distributed systems design and developing for enterprise automation and monitoring systems.
 * Data collection and visualization systems development.
-* Embedded software testing, deployment and support.
+* Embedded software testing, deployment, and support.
 * Requirements analysis, technical documentation.
 * Office LAN administration (25 workplaces).
 
 Achievements:
 
 * Launched automated control systems for [VTB Bank](http://vtb.ru) headquarters, Kronverk Business Center and a number of other office and residential buildings in Saint-Petersburg.
-* Kilowatt-hours and giga-calories saved by control algorithms optimization for embedded systems.
+* Kilowatt-hours and Giga-calories saved by control algorithms optimization for embedded systems.
 
 ## Some of personal non-commercial projects
 
-* Bibliography generator for science texts based on the GOST 7.0.5-2008 standard requirements (a tool which helps to get rid of a cumbersome list of weak rules which should be kept in mind during bibliography drafting).
-* Google Chrome browser extensions with a few thousands of users ([Narod Downloader](http://b23.ru/33f6), [B23](http://b23.ru/33f7)).
+* Bibliography generator for science texts based on the GOST 7.0.5-2008 standard requirements (a tool to get rid of a cumbersome list of weak rules, which should be kept in mind during bibliography drafting).
+* Google Chrome browser extensions with a few thousand of users ([Narod Downloader](http://b23.ru/33f6), [B23](http://b23.ru/33f7)).
 * [Public-Static](https://github.com/dreikanter/public-static) — static web site builder (it used to generate this page).
 * Open source blog CMS: Motoko Smart Blogging System ([github.com/dreikanter/motoko](https://github.com/dreikanter/motoko)).
 * Proven concept of Git version control system usage for web content management (specialized CMS for wishlists generation based on Git backend).
@@ -136,7 +136,7 @@ Complex Systems and Networks
 
 **Other:**
 
-* Brainbench certifacates: С, HTML.
+* Brainbench certificates: С, HTML.
 * Artyom Gorbunov’s Educational Center [certificate](http://artgorbunov.ru/educenter/certificate/b92253850c0147cb7cc68f4b7c10f572/): User Experience design and Information Visualization.
 * Careerlab certificate: High Level Architecture Design With UML.
 * [System Analysis School](http://school.system-analysis.ru/) certificate for software requirements development course.
