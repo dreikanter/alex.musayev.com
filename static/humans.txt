@@ -1,0 +1,13 @@
+/* TEAM */
+
+Creator: Alex Musayev
+Site: http://alex.musayev.com
+Twitter: @dreikanter
+Location: Saint-Petersburg, Russia
+
+/* SITE */
+
+Last update:
+Language: Russian / English
+Doctype: HTML5
+IDE: Sublime Text
