@@ -34,7 +34,7 @@ Eight years experience in software design and development. UI/UX design and prot
 
 ## Mission
 
-Invent and develop high-quality and popular products bringing. Increase the amount of order and meaning in the world.
+Invent and develop high-quality and popular products. Increase the amount of order and meaning in the world.
 
 ## Interests
 
