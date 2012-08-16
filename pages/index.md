@@ -10,7 +10,7 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 
 Мне интересна архитектура распределенных программных систем, системный анализ, веб-технологии, проектирование правильных пользовательских интерфейсов. Я умею объяснять непонятное, писать комментарии в коде, придумывать и делать лучше, чем было.
 
-* Почта/джаббер: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com)
+* Почта: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com)
 * GitHub: [github.com/dreikanter](https://github.com/dreikanter)
 * Мой круг: [alexmusayev.moikrug.ru](http://alexmusayev.moikrug.ru)
 * Twitter: [@dreikanter](http://twitter.com/dreikanter)
@@ -18,6 +18,7 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 * Friendfeed: [friendfeed.com/dreikanter](http://friendfeed.com/dreikanter)
 * Закладки: [pinboard.in/u:dreikanter](http://pinboard.in/u:dreikanter)
 * Блог: [paradigm.ru](http://paradigm.ru)
+* Tumblr: [uberlike.org](http://uberlike.org)
 * Вишлист: [pinterest.com/dreikanter/wishlist](http://pinterest.com/dreikanter/wishlist)
 
 Думайте о прекрасном.
