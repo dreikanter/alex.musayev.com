@@ -1,0 +1,53 @@
+body {
+	padding-top: 60px !important;
+	padding-bottom: 40px;
+}
+
+/*h1 {
+	margin: 15px 0 20px 0;
+}
+*/
+@media print {
+	.noprint {
+		display:none;
+	}
+}
+
+.container-narrow {
+	max-width: 600px;
+}
+
+.right {
+	text-align: right;
+}
+
+.muted a {
+	color: #999;
+}
+
+.tags {
+	margin: 0 0 10px 0;
+}
+
+.tags a {
+	color: #999;
+	padding: 2px 4px;
+	white-space: nowrap;
+	background-color: #f7f7f9;
+	border: 1px solid #e1e1e8;
+	text-decoration: none;
+}
+
+div.tags a {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+ul.archive li {
+	padding-bottom: 15px;
+}
+
+.nav-pills li.title {
+	margin-left: -12px;
+}
