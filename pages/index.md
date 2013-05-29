@@ -11,7 +11,7 @@ keywords: alex musayev, alexander musayev, contacts, cv, resume, алексан�
 
 ---
 
--- row 4, 4 --
+-- row 4 nowrap, 4 nowrap --
 * Почта: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com)
 * GitHub: [github.com/dreikanter](https://github.com/dreikanter)
 * Мой круг: [alexmusayev.moikrug.ru](http://alexmusayev.moikrug.ru)

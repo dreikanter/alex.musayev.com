@@ -51,3 +51,7 @@ ul.archive li {
 .nav-pills li.title {
 	margin-left: -12px;
 }
+
+.nowrap {
+	white-space: nowrap;
+}
