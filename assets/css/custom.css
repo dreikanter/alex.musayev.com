@@ -1,12 +1,18 @@
 body {
-	padding-top: 60px !important;
+	padding-top: 20px !important;
 	padding-bottom: 40px;
 }
 
-/*h1 {
-	margin: 15px 0 20px 0;
+h1 {
+	margin: 40px 0 20px 0;
 }
-*/
+
+p strong {
+	font-weight: normal;
+	color: inherit;
+	background-color: #ffffdd;
+}
+
 @media print {
 	.noprint {
 		display:none;
@@ -14,7 +20,7 @@ body {
 }
 
 .container-narrow {
-	max-width: 600px;
+	max-width: 700px;
 }
 
 .right {
@@ -33,15 +39,23 @@ body {
 	color: #999;
 	padding: 2px 4px;
 	white-space: nowrap;
-	background-color: #f7f7f9;
-	border: 1px solid #e1e1e8;
 	text-decoration: none;
 }
 
+div.tags {
+	margin: 25px 0;
+}
+
 div.tags a {
+	background-color: #f7f7f9;
+	border: 1px solid #e1e1e8;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
+}
+
+span.tags a:hover {
+	text-decoration: underline;
 }
 
 ul.archive li {
@@ -50,8 +64,4 @@ ul.archive li {
 
 .nav-pills li.title {
 	margin-left: -12px;
-}
-
-.nowrap {
-	white-space: nowrap;
 }
