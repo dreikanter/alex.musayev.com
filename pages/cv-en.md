@@ -8,10 +8,9 @@ keywords: alex musayev, alexander musayev, contacts, cv, personal information, �
 <a href="/cv-ru.html">Russian version</a>
 </div>
 
--- row 9, 3 --
 # Alexander Musayev
 
--- row 4, 5 --
+-- row 6, 5 --
 Date of birth: 17 Jul 1981
 Location: Saint-Petersburg, Russia
 --
@@ -126,12 +125,12 @@ GitHub account: [github.com/dreikanter](https://github.com/dreikanter/).
 
 ## Education
 
-**Higher:** 1998—2004, St. Petersburg State University of Airspace Instrumentation (SUAI)  
-Department of Automatic Control Systems  
+**Higher:** 1998—2004, St. Petersburg State University of Airspace Instrumentation (SUAI)
+Department of Automatic Control Systems
 Specialty: Automatic Control and Information Processing Systems
 
-**Postgraduate:** 2004–2008, St. Petersburg Institute for Informatics and Automation of Russian Academy of Sciences (SPIIRAS)  
-Specialty: Mathematical and Software Support of Computers,  
+**Postgraduate:** 2004–2008, St. Petersburg Institute for Informatics and Automation of Russian Academy of Sciences (SPIIRAS)
+Specialty: Mathematical and Software Support of Computers,
 Complex Systems and Networks
 
 **Other:**
@@ -142,7 +141,3 @@ Complex Systems and Networks
 * [System Analysis School](http://school.system-analysis.ru/) certificate for software requirements development course.
 * Community membership: ACM, WSG, UX Russia.
 * Traveling passport is available. Inland and abroad business trips experience.
-
---
-
--- end --
