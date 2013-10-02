@@ -1,0 +1,16 @@
+title: Alex Musayev
+author: Alex Musayev
+root_url: http://alex.musayev.com/
+source_url: https://github.com/dreikanter/alex.musayev.com
+port: 8002
+min_js: true
+min_css: true
+min_less: true
+deploy_cmd: s3 put "alex.musayev.com" {build_path}\* /sub:withdelete /yes /sync /acl:public-read /nogui
+post_at_root_url: false
+enable_search_form: false
+menu:
+- href: http://drafts.cc/
+  title: drafts.cc
+google_analytics_tracking_id: UA-32143798-3
+verbose: true

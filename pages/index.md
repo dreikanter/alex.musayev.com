@@ -1,20 +1,13 @@
-title: Александр Мусаев
-ctime: 2012/06/05 13:49:38
-description: Alex Musayev: contacts and CV
-keywords: alex musayev, alexander musayev, contacts, cv, resume, александр мусаев, контакты, резюме
+title: Alex Musayev
+created: 2012/06/05
+template: title
 
-Привет! Меня зовут **Александр Мусаев.** Я живу в Санкт-Петербурге, занимаюсь разработкой ПО в компании [Люксофт](http://luxoft.com).
+Hi, my name is Alex Musayev.
 
-Я умею писать код, объяснять непонятное, придумывать и делать лучше, чем было. Мне интересна архитектура распределенных программных систем, системный анализ, веб-технологии, проектирование пользовательских интерфейсов. Резюме: [русская версия](/cv-ru.html) ([pdf](/alexm-cv-ru.pdf)), [английская версия](/cv-en.html) ([pdf](/alexm-cv-en.pdf)). Мир.
+I'm a software engineer from Saint&#8209;Petersburg, Russia. Here is [my CV](/alexm-cv-en.pdf) (there is also version [in&nbsp;Russian](/alexm-cv-ru.pdf)). Preferred way to contact me is email: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com).
 
----
+* I'm on Twitter: [http://twitter.com/dreikanter](http://twitter.com/dreikanter)
+* Some of my open source projects at GitHub: [https://github.com/dreikanter](https://github.com/dreikanter)
+* Personal blog (mostly for tech notes): [http://drafts.cc](http://drafts.cc)
 
--- row 6 nowrap, 5 nowrap --
-* Почта: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com)
-* GitHub: [github.com/dreikanter](https://github.com/dreikanter)
-* Мой круг: [alexmusayev.moikrug.ru](http://alexmusayev.moikrug.ru)
---
-* Twitter: [@dreikanter](http://twitter.com/dreikanter)
-* Frf: [friendfeed.com/dreikanter](http://friendfeed.com/dreikanter)
-* Закладки: [pinboard.in/u:dreikanter](http://pinboard.in/u:dreikanter)
--- end --
+<span class="text-muted">* My surname pronunciation is \[mus'&#652;jev\] (as in **moo**n, **su**n, **ye**llow, ner**v**e).</span>
