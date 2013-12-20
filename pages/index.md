@@ -1,6 +1,6 @@
 title: Alex Musayev
 created: 2012/06/05
-template: title
+template: simple
 
 Hi, my name is Alex Musayev.
 
