@@ -4,7 +4,7 @@ template: simple
 
 Hi, my name is Alex Musayev.
 
-I'm a software engineer from Saint&#8209;Petersburg, Russia. Here is [my CV](/alexm-cv-en.pdf) (there is also version [in&nbsp;Russian](/alexm-cv-ru.pdf)).
+I'm a software engineer from Saint&#8209;Petersburg, Russia. Here is [my CV](/alexm-cv-en.pdf) (version [in&nbsp;Russian](/alexm-cv-ru.pdf)).
 
 * I'm on Twitter: [http://twitter.com/dreikanter](http://twitter.com/dreikanter)
 * Some of my open source projects at GitHub: [https://github.com/dreikanter](https://github.com/dreikanter)
