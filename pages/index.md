@@ -10,6 +10,6 @@ I'm a software engineer from Saint&#8209;Petersburg, Russia. Here is [my CV](/al
 * Some of my open source projects at GitHub: [https://github.com/dreikanter](https://github.com/dreikanter)
 * Personal blog (mostly for tech notes): [http://drafts.cc](http://drafts.cc)
 
-Preferred way to contact me is email: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com). If you need my public GPG key, its ID is 95DA8873. Use the following command to import the key from public keyserver: gpg --keyserver keys.gnupg.net --recv-keys 95DA8873, or copy it from [here](/alexm-gpg.txt).
+Preferred way to contact me is email: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com) (gpg key is [here](/gpg.html)).
 
 <span class="text-muted">* My surname pronunciation is \[mus'&#652;jev\], as in [moo]n, [su]n, [ye]llow, ner[v]e.</span>
