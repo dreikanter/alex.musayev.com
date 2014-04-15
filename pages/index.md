@@ -2,14 +2,15 @@ title: Alex Musayev
 created: 2012/06/05
 template: simple
 
-Hi, my name is Alex Musayev.
+**Alex Musayev** <!--span class="text-muted">\[mus'&#652;jev\]</span-->
+Software engineer, CTO at [Softin.co](http://softin.co)
 
-I'm a software engineer from Saint&#8209;Petersburg, Russia. Here is [my CV](/alexm-cv-en.pdf) (version [in&nbsp;Russian](/alexm-cv-ru.pdf)).
+Email: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com) ([gpg key](/gpg.html))
+Curriculum vitae: [alexm-cv-en.pdf](/alexm-cv-en.pdf)
 
-* I'm on Twitter: [http://twitter.com/dreikanter](http://twitter.com/dreikanter)
-* Some of my open source projects at GitHub: [https://github.com/dreikanter](https://github.com/dreikanter)
-* Personal blog (mostly for tech notes): [http://drafts.cc](http://drafts.cc)
+Social presence:
 
-Preferred way to contact me is email: [alex.musayev@gmail.com](mailto:alex.musayev@gmail.com) (gpg key is [here](/gpg.html)).
-
-<span class="text-muted">* My surname pronunciation is \[mus'&#652;jev\], as in [moo]n, [su]n, [ye]llow, ner[v]e.</span>
+- GitHub: [https://github.com/dreikanter](https://github.com/dreikanter)
+- Blog: [http://drafts.cc](http://drafts.cc) (tech notes, mostly in Russian)
+- Twitter: [https://twitter.com/dreikanter](https://twitter.com/dreikanter)
+- Bookmarks: [https://pinboard.in/u:dreikanter](https://pinboard.in/u:dreikanter)
