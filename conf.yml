@@ -5,14 +5,8 @@ site_twitter: dreikanter
 root_url: http://alex.musayev.com/
 source_url: https://github.com/dreikanter/alex.musayev.com
 port: 8002
-min_js: false
-min_css: false
-min_less: true
 deploy_cmd: aws s3 sync {build_path} s3://alex.musayev.com --acl public-read --delete --region=eu-west-1
 post_at_root_url: false
 enable_search_form: false
-menu:
-- href: http://drafts.cc/
-  title: drafts.cc
 google_analytics_tracking_id: UA-32143798-3
 verbose: true

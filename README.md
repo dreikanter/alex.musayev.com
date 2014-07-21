@@ -1,1 +1,1 @@
-→ http://alex.musayev.com
+http://alex.musayev.com
