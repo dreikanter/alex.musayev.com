@@ -1,0 +1,86 @@
+{% from '_macros.html' import tags_list,
+                              all_tags,
+                              google_analytics,
+                              disqus_comments,
+                              disqus_counter,
+                              addthis,
+                              pluso,
+                              img -%}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		{% if commons.description -%}
+		<meta name="description" content="{{ commons.description }}">
+		{% endif -%}
+
+		{% if commons.keywords -%}
+		<meta name="keywords" content="{{ commons.keywords }}">
+		{% endif -%}
+
+		{%- if commons.author -%}
+		<meta name="author" content="{{ commons.author }}">
+		{% endif -%}
+
+		{%- if commons.generator -%}
+		<meta name="generator" content="{{ commons.generator }} {{ generator_version }}">
+		{% endif -%}
+
+		{%- if commons.opengraph_enabled -%}
+		<meta property="og:title" content="{{ page.title }}" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="{{ page.url }}" />
+		<meta property="og:description" content="{{ page.description }}" />
+		<meta property="article:author" content="{{ page.author }}" />
+		<meta property="article:publisher" content="{{ commons.root_url }}" />
+		{% endif -%}
+
+		{%- if commons.twittercards_enabled -%}
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="{{ page.title }}" />
+		<meta name="twitter:description" content="{{ page.description }}" />
+		<meta name="twitter:creator" content="{{ page.author_twitter }}" />
+		{%- if commons.site_twitter -%}
+		<meta name="twitter:site" content="{{ commons.site_twitter }}" />
+		{% endif -%}
+		{% endif -%}
+
+		<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+ 		<link href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css" rel="stylesheet">
+		<style type="text/css">
+			* {
+				font-family: "PT Serif", Georgia, serif;
+				font-size: 18px;
+				line-height: 1.5;
+			}
+
+			body {
+				margin: 0;
+				padding: 15px 45px;
+			}
+
+			a, a:visited {
+				color: #297ACC;
+			}
+
+			.text-muted, .text-muted a, .text-muted a:visited {
+				color: silver;
+			}
+
+			.text-muted a {
+				text-decoration: none;
+			}
+			</style>
+		<link href="{{ commons.rel_root_url }}favicon.ico" type="image/png" rel="shortcut icon">
+	</head>
+
+	<body>
+		{{ page.content }}
+
+		{%- if commons.google_analytics_id -%}
+			{{- google_analytics(commons.google_analytics_id) -}}
+		{%- endif -%}
+	</body>
+</html>
